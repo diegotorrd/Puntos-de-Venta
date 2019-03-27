@@ -6,6 +6,14 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <!--<item name="windowActionModeOverlay">true</item>
+        &lt;!&ndash;if you want to style action mode with differnet color &ndash;&gt;
+        <item name="actionModeStyle">@style/styleActionMode</item>-->
     </style>
+    <!--<style name="styleActionMode" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="background">@color/colorPrimary</item>
+        <item name="actionMenuTextColor">@android:color/white</item>
+    </style>-->
+
 
 </resources>
